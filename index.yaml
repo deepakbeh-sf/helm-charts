@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: stable-alpine3.20
+    created: "2025-09-03T11:13:21.669005+05:30"
+    description: Nginx
+    digest: 367614ad0b582e0f534aeea834d6d5fe8de36acd6d5e27b7ad0a5b62e7eb65d4
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-03T11:13:21.668484+05:30"
